@@ -83,7 +83,7 @@ Pretrained denoising autoencoders for each modality (trained in Phase 1):
 - **DNA methylation autoencoder**
 
 Download (all modalities):  
-https://<link-to-aes_redo_z>
+https://<[link-to-aes_redo_z](https://drive.google.com/drive/folders/1-bFPB1mRJLBZD0SEONemg1Ul0bJ1t_qH?usp=sharing)>
 
 Expected location after download:
 ``` aes_redo_z/```
@@ -96,7 +96,7 @@ These checkpoints are loaded automatically by the Phase 2 and Phase 3–6 notebo
   Trained using Phase 1 autoencoders and Phase 2 joint fine-tuning.
 
   Download:  
-  https://<link-to-phase2-checkpoint>
+  https://<[link-to-phase2-checkpoint](https://drive.google.com/drive/folders/1-bFPB1mRJLBZD0SEONemg1Ul0bJ1t_qH?usp=sharing)>
 
   Expected location after download:
   ``` checkpoints/finetuned/```
